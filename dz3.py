@@ -29,9 +29,9 @@ print("")
 
 # 2 ########
 
-#my_list = [12, 3, 4, 10]
+my_list = [12, 3, 4, 10]
 #my_list = []
-my_list = [5]
+#my_list = [5]
 #my_list = [12, 3, 4, 10, 8]
 
 copy_list = my_list.copy()
