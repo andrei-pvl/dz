@@ -1,3 +1,5 @@
+# 1 ########
+
 first_input = float(input("Input first element: "))
 second_input = float(input("Input second element: "))
 
@@ -24,6 +26,8 @@ else:
 ##########################################
 print("")
 ##########################################
+
+# 2 ########
 
 #my_list = [12, 3, 4, 10]
 #my_list = []
